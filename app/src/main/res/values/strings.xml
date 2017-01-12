@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Offper</string>
+
+    <string name="carousel_slide1_title">Descubre ofertas sociales y únete al movimiento</string>
+    <string name="carousel_slide2_title">Descuentos para ti</string>
+    <string name="carousel_slide2_subtitle">Descubre ofertas personalizadas</string>
+    <string name="carousel_slide3_title">¡Únete al movimiento!</string>
+    <string name="carousel_slide3_subtitle">Por cada oferta que aproveches donamos una galleta nutricional a niños necesitados</string>
+    <string name="carousel_slide4_title">¡Hazte cuenta oficial!</string>
+    <string name="carousel_slide4_subtitle">Gana recompensas, cumple los retos y se parte de Offper club</string>
 </resources>
